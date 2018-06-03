@@ -8,5 +8,6 @@ hmu on discord hq.af#8406
 
 Important :
 
-- Run your game borderless mode or hide console (CTRL + H)
-- Set your keys to "Q" and "W"
+- Only works on osu!stable latest version
+- Run your game in windowed or borderless mode
+- Set your keys to "Q" and "W" or configure "relax.cfg" (created upon launch)
