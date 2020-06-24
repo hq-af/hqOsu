@@ -10,3 +10,6 @@ Important :
 - Except if you want it to.
 
 Don't use.
+Doesn't work on Bancho.
+Detected.
+Use only for educational purposes.
