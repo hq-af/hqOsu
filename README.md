@@ -6,7 +6,10 @@ Latest builds can be found [here](https://github.com/hq-af/hqOsu/releases)
 
 Important :
 
-- Only works on osu!stable latest version
+- Doesn't work anymore, outdated.
+- Except if you want it to.
 
-
-Don't use on bancho
+Don't use.
+Doesn't work on Bancho.
+Detected.
+Use only for educational purposes.
